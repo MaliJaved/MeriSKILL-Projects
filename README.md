@@ -12,6 +12,9 @@ Live Dashboard: https://app.powerbi.com/groups/me/reports/0253c1f8-404f-4dc1-88e
 • Total Sales
 • Total Qty Ordered
 • Profit Margin %
+# Dashboard
+![Uploading image.png…]()
+
 # Key Insights Derived
 1.	🌟 𝐁𝐞𝐬𝐭 𝐒𝐞𝐥𝐥𝐢𝐧𝐠 𝐏𝐫𝐨𝐝𝐮𝐜𝐭𝐬: The top-performing products were MacBook Pro Laptop, iPhone, ThinkPad Laptop, Google Photos and 27in 4k Gaming Monitor, driving substantial revenue and profit.
 2.	📉 𝐋𝐞𝐚𝐬𝐭 𝐒𝐞𝐥𝐥𝐢𝐧𝐠 𝐏𝐫𝐨𝐝𝐮𝐜𝐭𝐬: On the other hand, Lightning Charging Cable, USB-C Charging Cable, Wired Headphones, AA Batteries (4-pack), and AAA Batteries (4-pack) had lower sales and profit margins.
