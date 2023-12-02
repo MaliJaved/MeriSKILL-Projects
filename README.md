@@ -16,7 +16,7 @@ Live Dashboard:
 • Profit Margin %
 
 # Dashboard
- ![image](https://github.com/MaliJaved/Sales_Data_Analysis_Using_PowerBI/assets/121247667/5444f520-9c2e-4606-b9e7-dc0e92e90e7e)
+   ![image](https://github.com/MaliJaved/Sales_Data_Analysis_Using_PowerBI/assets/121247667/5444f520-9c2e-4606-b9e7-dc0e92e90e7e)
 
 
 # Key Insights Derived
